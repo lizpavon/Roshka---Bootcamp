@@ -12,6 +12,10 @@ public class Horario {
         //   min = 00;
         //   seg = 00;
     }
+    
+    public metodoPrueba() {
+      System.out.println("hoklaaa");
+    }
 
 
     //un constructor con 3 parametros: horas, minutos, segundos
