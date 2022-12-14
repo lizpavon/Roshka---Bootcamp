@@ -14,7 +14,7 @@ public class Horario {
     }
     
     public metodoPrueba() {
-      System.out.println("hoklaaa");
+      System.out.println("hola Liiz :)" );
     }
 
 
